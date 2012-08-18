@@ -9,11 +9,7 @@ Reload](https://github.com/guard/guard-livereload). [Guard](https://github.com/g
 
 [Normalize.css](https://github.com/necolas/normalize.css) is included to ensure a nice level playing field for styling. A development build of [Modernizr](http://modernizr.com) is also included - be sure to swap this out for a custom, minified version suitable for your project.
 
-Some support for OldIE is added with the [jQuery Extended Selectors](https://github.com/kymwei/JQuery-Extended-Selectors) and
-[Selectivizr](http://selectivizr.com) libraries.
-
-The project structure is setup to serve files from the `/public`
-directory, for compatibility with the [Pow](http://pow.cx) development web server.
+The project structure is setup to serve files from the `/public` directory, for compatibility with the [Pow](http://pow.cx) development web server.
 
 
 ## Usage

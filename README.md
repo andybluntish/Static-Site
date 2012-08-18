@@ -13,7 +13,7 @@ Some support for OldIE is added with the [jQuery Extended Selectors](https://git
 [Selectivizr](http://selectivizr.com) libraries.
 
 The project structure is setup to serve files from the `/public`
-directory, for compatibility with the [Pow](http://pow.cx) development web server. A `_config.yml` has been included to cause [Jekyll](https://github.com/mojombo/jekyll) to serve pages from the `/public` directory, for [Github Pages](https://pages.github.com) compatibility.
+directory, for compatibility with the [Pow](http://pow.cx) development web server.
 
 
 ## Usage

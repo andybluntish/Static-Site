@@ -12,9 +12,13 @@ Reload](https://github.com/guard/guard-livereload). [Guard](https://github.com/g
 The project structure is setup to serve files from the `/public` directory, for compatibility with the [Pow](http://pow.cx) development web server.
 
 
+## Compatibility
+
+Normalize.css and the included CSS modules use features supported in the major modern browsers, and IE 8. Support for IE 7 and below is not intended.
+
+
 ## Usage
 
 1. Clone the repo.
 2. Run `guard`.
 3. Profit.
-

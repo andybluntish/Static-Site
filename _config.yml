@@ -1,0 +1,3 @@
+source: .
+destination: ./public
+exclude: Gemfile Gemfile.lock Guardfile README.md

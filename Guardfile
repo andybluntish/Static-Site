@@ -8,4 +8,3 @@ end
 guard 'sass', input: 'scss', output: 'public/css', style: :compressed
 
 guard 'coffeescript', input: 'coffee', output: 'public/js'
-

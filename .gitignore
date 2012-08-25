@@ -18,11 +18,11 @@ Session.vim
 .config
 .sass-cache
 tmp/
-coverage/
+
+public/
 
 *.log
 *.sql
 *.sqlite
 *.sqlite3
 *.db
-

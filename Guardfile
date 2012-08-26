@@ -5,9 +5,9 @@ guard 'livereload' do
   watch(%r{public/img/.+.(png|jpg|gif)})
 end
 
-guard 'sass', input: 'scss', output: 'public/css', style: :compressed
+guard 'sass', input: '_scss', output: 'css', style: :compressed
 
-guard 'coffeescript', input: 'coffee', output: 'public/js'
+guard 'coffeescript', input: '_coffee', output: 'js'
 
 guard 'jekyll' do
   watch /.*/

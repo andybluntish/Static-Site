@@ -16,6 +16,4 @@ Normalize.css and the included CSS modules use features supported in the major m
 
 ## Usage
 
-1. Clone the repo.
-2. Run `guard`.
-3. Profit.
+Clone the repository and run `bundle install` to install dependencies. Run `guard` in the project root to start watching and compiling files.
